@@ -1,6 +1,8 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Srivatsava%20Gade%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Srivatsava%20Gade%20👨‍💻&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 <h2 align="center">Srivatsava Gade</h2>
 <h3 align="center">AI\ML Engineer @ Kirusa |M.Sc Data Science @ VIT-AP</h3>
+
+<img align="right"  width="350" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">
 <p align="left">🧠 Crafting algorithms to tackle real-world challenges
 
 💻 Building prototypes and solutions with cutting-edge tech
@@ -8,16 +10,15 @@
 🌐 Passionate about transforming ideas into actionable solutions.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TejodhayBonam&label=Profile%20views&color=0e75b6&style=flat" alt="TejodhayBonam" /> </p>
-
-
-- 🔭 I’m currently looking for ****
+- 🔭 I’m currently looking for **Research Positions in India**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning , Data Structures & Algorithms**
 
 - 💬 Ask me about **ML , NLP, AI**
 
 - 📫 You can reach me on **srivatsavagade@gmail.com**
+
+
 
 
 ---
