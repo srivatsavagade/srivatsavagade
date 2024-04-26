@@ -2,7 +2,6 @@
 <h2 align="center">Srivatsava Gade</h2>
 <h3 align="center">AI\ML Engineer @ Kirusa |M.Sc Data Science @ VIT-AP</h3>
 
-<img align="right"  width="350" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">
 <p align="left">🧠 Crafting algorithms to tackle real-world challenges
 
 💻 Building prototypes and solutions with cutting-edge tech
