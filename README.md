@@ -1,7 +1,11 @@
 ![MasterHead](https://svg-banners.vercel.app/api?type=origin&text1=Srivatsava%20Gade%20🤠&text2=💖%20Open%20Source&width=800&height=400)
 <h2 align="center">Srivatsava Gade</h2>
 <h3 align="center">AI\ML Engineer @ Kirusa |M.Sc Data Science @ VIT-AP</h3>
-<p align="left">I'm a Data Scientist, armed with Python spells, R potions, and SQL incantations. I conjure predictions and unlock the secrets of the dataverse, a world where data bends to my will.</p>
+<p align="left">🧠 Crafting algorithms to tackle real-world challenges
+
+💻 Building prototypes and solutions with cutting-edge tech
+
+🌐 Passionate about transforming ideas into actionable solutions.</p>
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif">
 
