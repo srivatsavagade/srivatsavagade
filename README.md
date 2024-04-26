@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Srivatsava%20Gade%20👨‍💻&width=600&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Srivatsava%20Gade%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h2 align="center">Srivatsava Gade</h2>
 <h3 align="center">AI\ML Engineer @ Kirusa |M.Sc Data Science @ VIT-AP</h3>
 <p align="left">🧠 Crafting algorithms to tackle real-world challenges
